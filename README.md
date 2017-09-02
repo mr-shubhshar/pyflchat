@@ -1,1 +1,1 @@
-A chat app using Python, Flask and Socketio.
+A chat app using Python, Flask and SocketIO.
