@@ -30,7 +30,7 @@ $(document).ready(function() {
 </script>
 <ul id="messages">
     {% for msg in messages %}
-        <li>{{ msg }}</li>
+        <li>{{ msg.message }}</li>
     {% endfor %}
 </ul>
 <input type="text" id="myMessage">
